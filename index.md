@@ -41,9 +41,9 @@
 
 <h2>桌形、分枝形的軸孔珊瑚是主要造礁物</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:40px;">
-<p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09104.jpg" align="left">環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，以桌形和分枝形的軸孔珊瑚為主要造礁生物，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p><br>
+<p><img class="blackborder" style="width:180px;height:160px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09104.jpg" align="left">環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，以桌形和分枝形的軸孔珊瑚為主要造礁生物，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p><br>
 
-<br><p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09106.jpg" align="right">這廣大的珊瑚礁海域，有著複雜的空間結構，提供海洋生物繁衍棲所，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物。東沙島孤懸外海，擁有潟湖、海域、和潮間帶等棲息環境，因此成為遷徙性鳥類過境的落腳處，島上也有少數留鳥及冬候鳥，鳥類記錄有130種，主要以鷸科、鷺科及鷗科為主。</p>
+<br><p><img class="blackborder" style="width:200px;height:200px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09106.jpg" align="right">這廣大的珊瑚礁海域，有著複雜的空間結構，提供海洋生物繁衍棲所，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物。東沙島孤懸外海，擁有潟湖、海域、和潮間帶等棲息環境，因此成為遷徙性鳥類過境的落腳處，島上也有少數留鳥及冬候鳥，鳥類記錄有130種，主要以鷸科、鷺科及鷗科為主。</p>
 </div>
 
 <h2>海底沉船約29艘可供考古</h2>
