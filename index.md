@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<style>
+  
+  body {
+    background-color: #CCFF99
+  }
+  
+  .blackborder{
+    border:2px black solid;
+  }
+  
+  p {
+    font-size: 18px;
+    font-family: 標楷體;
+  }
+  
+</style>
+<h1 style="font-family:標楷體;">基本資訊</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 
-You can use the [editor on GitHub](https://github.com/KaiDung/Dongsha-Atoll-National-Park/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 style="font-family:標楷體;">國家公園標示意涵</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:30px;">
 
-### Markdown
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1 style="font-family:標楷體;">公園特色介紹</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 
-```markdown
-Syntax highlighted code block
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<h1 style="font-family=標楷體;">交通資訊</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 
-- Bulleted
-- List
+</div>
 
-1. Numbered
-2. List
+<h1 style="font-family=標楷體;">周圍住宿資訊</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 
-**Bold** and _Italic_ and `Code` text
+</div>
 
-[Link](url) and ![Image](src)
-```
+<h1 style="font-family=標楷體;">周圍美食資訊</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</div>
 
-### Jekyll Themes
+<h1 style="font-family=標楷體;">資料來源</h1>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KaiDung/Dongsha-Atoll-National-Park/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
