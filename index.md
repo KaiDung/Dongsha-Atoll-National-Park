@@ -34,16 +34,16 @@
 
 <h1>公園特色介紹</h1>
 <h2>環礁直徑約25公里</h2>
-<div style="background-color:#EEFFBB;border:2px black solid;padding:20px;">
+<div style="background-color:#EEFFBB;border:2px black solid;padding:40px;">
 <p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09101.jpg" align="left">東沙環礁國家公園境內包括東沙島和環礁。其中的東沙島呈現馬蹄形，常年露出水面，整座島地勢低平，最高處海拔只有7.8公尺，東西長約2,800公尺，寬約865公尺，陸域總面積174公頃，島上覆有貝殼砂，無明顯地形上的遮蔽，有低矮熱帶灌木遍布，島的西側則有兩條沙脊延伸，環抱一個小潟湖，外形很像招潮蟹的大螯，潟湖在退潮時水深不及1公尺。</p><br>
-<p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09102.jpg" align="right">東沙環礁為一直徑約25公里的圓形環礁，礁台長約46公里，寬約2公里，海水落潮時，周圍礁台可浮現水面。環礁底部坐落在大陸斜坡水深約300~400公尺的東沙台階上，包含有礁台、潟湖、沙洲、淺灘、水道及島嶼等特殊地形。據推測，東沙環礁的形成需要千萬年的時間，屬世界級的地景景觀。</p>
+<br><p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09102.jpg" align="right">東沙環礁為一直徑約25公里的圓形環礁，礁台長約46公里，寬約2公里，海水落潮時，周圍礁台可浮現水面。環礁底部坐落在大陸斜坡水深約300~400公尺的東沙台階上，包含有礁台、潟湖、沙洲、淺灘、水道及島嶼等特殊地形。據推測，東沙環礁的形成需要千萬年的時間，屬世界級的地景景觀。</p>
 </div>
 
 <h2>桌形、分枝形的軸孔珊瑚是主要造礁物</h2>
-<div style="background-color:#EEFFBB;border:2px black solid;padding:20px;">
-<p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09104.jpg" align="left">環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，以桌形和分枝形的軸孔珊瑚為主要造礁生物，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p>
+<div style="background-color:#EEFFBB;border:2px black solid;padding:40px;">
+<p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09104.jpg" align="left">環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，以桌形和分枝形的軸孔珊瑚為主要造礁生物，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p><br>
 
-<p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09106.jpg" align="right">這廣大的珊瑚礁海域，有著複雜的空間結構，提供海洋生物繁衍棲所，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物。東沙島孤懸外海，擁有潟湖、海域、和潮間帶等棲息環境，因此成為遷徙性鳥類過境的落腳處，島上也有少數留鳥及冬候鳥，鳥類記錄有130種，主要以鷸科、鷺科及鷗科為主。</p>
+<br><p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09106.jpg" align="right">這廣大的珊瑚礁海域，有著複雜的空間結構，提供海洋生物繁衍棲所，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物。東沙島孤懸外海，擁有潟湖、海域、和潮間帶等棲息環境，因此成為遷徙性鳥類過境的落腳處，島上也有少數留鳥及冬候鳥，鳥類記錄有130種，主要以鷸科、鷺科及鷗科為主。</p>
 </div>
 
 <h2>海底沉船約29艘可供考古</h2>
