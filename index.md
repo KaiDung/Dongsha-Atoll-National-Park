@@ -23,9 +23,8 @@
 <h1>基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p>東沙環礁位在南海北方，環礁外形有如滿月，由造礁珊瑚歷經千萬年建造形成，由於地理、生態特殊，擁有豐富多樣的海洋生物，範圍是以環礁為中心，加上環礁外圍12浬海域為界，海陸域總面積約為353,667.95多公頃。比現有6座國家公園總面積還大，相當臺灣島的十分之一，範圍涵蓋了島嶼、海岸林、潟湖、潮間帶、珊瑚礁、海藻床及大洋等不同但相互依存的生態系統，資源特性有別於臺灣沿岸珊瑚礁生態系，複雜性遠高於陸域生態。</p>
- <img class="blackborder" style="display:block;width:80%;height:auto;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09104.jpg">
  <p>東沙國家公園成立於2007年1月，位於南海北端，介於香港、臺灣與呂宋島間，為臺灣海峽的南方大門。環礁距離東北方的高雄有240浬，南距南沙太平島640浬，面積廣達8萬多公頃，主要由造礁珊瑚建造而成，東沙島是環礁裡唯一出露海面的陸域。</p>
-  <img class="blackborder" style="display:block;width:80%;height:auto;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09106.jpg">
+
 </div>
 
 <h1>國家公園標示意涵</h1>
@@ -42,9 +41,9 @@
 
 <h2>桌形、分枝形的軸孔珊瑚是主要造礁物</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
-<p>環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，以桌形和分枝形的軸孔珊瑚為主要造礁生物，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p>
+<img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09104.jpg" align="right"><p>環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，以桌形和分枝形的軸孔珊瑚為主要造礁生物，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p>
 
-<p>這廣大的珊瑚礁海域，有著複雜的空間結構，提供海洋生物繁衍棲所，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物</p>
+<img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09106.jpg" align="left"><p>這廣大的珊瑚礁海域，有著複雜的空間結構，提供海洋生物繁衍棲所，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物</p>
 <p>東沙島孤懸外海，擁有潟湖、海域、和潮間帶等棲息環境，因此成為遷徙性鳥類過境的落腳處，島上也有少數留鳥及冬候鳥，鳥類記錄有130種，主要以鷸科、鷺科及鷗科為主。</p>
 </div>
 
