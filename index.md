@@ -31,7 +31,7 @@
 
 <h1>國家公園標示意涵</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:30px;">
-<img style="width: 90px; height: 90px;" src="//i.imgur.com/3Ionk8I.png" align="left"><><p>海洋國家公園管理處處徽以海洋國家公園管理處英文名稱之M為設計元素，運用流暢飄逸之書法韻味筆觸表現海浪波動，象徵海洋生態旺盛生命力，及搭配深淺藍色與白色之對比視覺效果，融合於水墨自由暈開之圖形，呈現海洋資源豐沛之意象。</p>
+<img style="width: 90px; height: 90px;" src="//i.imgur.com/3Ionk8I.png" align="left"><p>海洋國家公園管理處處徽以海洋國家公園管理處英文名稱之M為設計元素，運用流暢飄逸之書法韻味筆觸表現海浪波動，象徵海洋生態旺盛生命力，及搭配深淺藍色與白色之對比視覺效果，融合於水墨自由暈開之圖形，呈現海洋資源豐沛之意象。</p>
 </div>
 
 <h1>公園特色介紹</h1>
