@@ -24,15 +24,17 @@
     position:fixed;
     right:10%;
     bottom:10%;
+    width:100px;
+    height:50px;
    }
   
 </style>
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script>
-  $('#top').click(function (e) {
+  $("#top").click(function (e) {
     e.preventDefault();
-    $('html, body').animate({scrollTop: 0}, 800);
+    $("html, body").animate({scrollTop: 0}, 800);
   });
   </script>
 </head>
