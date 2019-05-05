@@ -34,6 +34,11 @@
   #top{
     position:fixed;
     right:10%;
+    bottom:15%;
+   }
+   #bottom{
+    position:fixed;
+    right:10%;
     bottom:10%;
    }
   
@@ -43,7 +48,11 @@
   <script>
   $("#top").click(function (e) {
     e.preventDefault();
-    $("html, body").animate({scrollTop: 0}, 800);
+    $("html, body").animate({scrollTop: 0}, slow);
+  });
+  $("#bottom").click(function (e) {
+    e.preventDefault();
+    $("html, body").animate({scrollTop: $(document).height()-$(window).height()}, slow);
   });
   </script>
 </head>
@@ -94,4 +103,5 @@
 <a href="http://np.cpami.gov.tw/%E9%97%9C%E6%96%BC%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E7%B0%A1%E4%BB%8B/293-%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96/%E5%90%84%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E4%BB%8B%E7%B4%B9/37-2009-07-07-05-55-36.html">台灣國家公園</a><br>
 <a href="https://www.marine.gov.tw/index.php">海洋國家公園管理處</a>
 </div>
-<button class="button" id="top">點此返回網頁頂部</button>
+<a class="button" id="top" href="#">點此返回網頁頂部</a><>
+<a class="button" id="bottom" href="#">點此到達網頁底部</a>
