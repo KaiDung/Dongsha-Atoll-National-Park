@@ -56,7 +56,7 @@
   });
   </script>
 </head>
-
+<body>
 <h1 style="text-align:center;font-size:40px">東沙環礁國家公園</h1>
 <h1>基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
@@ -103,5 +103,6 @@
 <a href="http://np.cpami.gov.tw/%E9%97%9C%E6%96%BC%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E7%B0%A1%E4%BB%8B/293-%E4%B8%AD%E6%96%87/%E5%85%B6%E4%BB%96/%E5%90%84%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E4%BB%8B%E7%B4%B9/37-2009-07-07-05-55-36.html">台灣國家公園</a><br>
 <a href="https://www.marine.gov.tw/index.php">海洋國家公園管理處</a>
 </div>
+</body>
 <a class="button" id="top" href="#">點此返回網頁頂部</a>
 <a class="button" id="bottom" href="#">點此到達網頁底部</a>
