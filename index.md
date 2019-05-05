@@ -35,27 +35,27 @@
   #home{
     position:fixed;
     right:10%;
-    bottom:25%;
+    bottom:35%;
   }
   #a{
     position:fixed;
     right:10%;
-    bottom:20%;
+    bottom:27%;
   }
   #b{
     position:fixed;
     right:10%;
-    bottom:15%;
+    bottom:19%;
   }
   #top{
     position:fixed;
     right:10%;
-    bottom:10%;
+    bottom:11%;
   }
   #bottom{
     position:fixed;
     right:10%;
-    bottom:5%;
+    bottom:3%;
   }
 </style>
 
