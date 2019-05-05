@@ -55,17 +55,17 @@
   #top{
     position:fixed;
     right:10%;
-    bottom:19%;
+    bottom:40%;
   }
   #bottom{
     position:fixed;
     right:10%;
-    bottom:12%;
+    bottom:33%;
   }
   #home{
     position:fixed;
     right:10%;
-    bottom:5%;
+    bottom:26%;
   }
 </style>
 
