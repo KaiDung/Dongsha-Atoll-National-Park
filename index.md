@@ -41,7 +41,7 @@
 <h2>一、環礁直徑約25公里</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:40px;">
 <p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09101.jpg" align="left">東沙環礁國家公園境內包括東沙島和環礁。其中的東沙島呈現馬蹄形，常年露出水面，整座島地勢低平，最高處海拔只有7.8公尺，東西長約2,800公尺，寬約865公尺，陸域總面積174公頃，島上覆有貝殼砂，無明顯地形上的遮蔽，有低矮熱帶灌木遍布，島的西側則有兩條沙脊延伸，環抱一個小潟湖，外形很像招潮蟹的大螯，潟湖在退潮時水深不及1公尺。</p><br>
-<br><p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09102.jpg" align="right"><b>東沙環礁為一直徑約25公里的圓形環礁，礁台長約46公里，寬約2公里，海水落潮時，周圍礁台可浮現水面<b>。環礁底部坐落在大陸斜坡水深約300~400公尺的東沙台階上，包含有礁台、潟湖、沙洲、淺灘、水道及島嶼等特殊地形。<b>據推測，東沙環礁的形成需要千萬年的時間，屬世界級的地景景觀<b>。</p>
+<br><p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09102.jpg" align="right"><b>東沙環礁為一直徑約25公里的圓形環礁，礁台長約46公里，寬約2公里，海水落潮時，周圍礁台可浮現水面</b>。環礁底部坐落在大陸斜坡水深約300~400公尺的東沙台階上，包含有礁台、潟湖、沙洲、淺灘、水道及島嶼等特殊地形。<b>據推測，東沙環礁的形成需要千萬年的時間，屬世界級的地景景觀<b/>。</p>
 </div>
 
 <h2>二、桌形、分枝形的軸孔珊瑚是主要造礁物</h2>
@@ -59,7 +59,7 @@
 
 <h1>交通資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;"> 
-<p><b>東沙環礁國家公園目前目前係以環境資源保育與復育、深化海洋學術研究為發展目標，尚未開放民眾登島遊憩活動<b>，歡迎您星期一~星期日09:00至12:00，14:00至17:00蒞臨高雄市楠梓區德民路24號(高雄都會公園內)的海洋國家公園管理處解說服務中心 參觀，服務電話：(07)360-1898。</p>
+<p><b>東沙環礁國家公園目前目前係以環境資源保育與復育、深化海洋學術研究為發展目標，尚未開放民眾登島遊憩活動</b>，歡迎您星期一~星期日09:00至12:00，14:00至17:00蒞臨高雄市楠梓區德民路24號(高雄都會公園內)的海洋國家公園管理處解說服務中心 參觀，服務電話：(07)360-1898。</p>
 </div>
 
 
