@@ -35,22 +35,27 @@
   #home{
     position:fixed;
     right:10%;
-    bottom:40%;
+    bottom:25%;
   }
-  #one{
-    position:fixed;
-    right:10%;
-    bottom:30%;
-  }
-  #top{
+  #a{
     position:fixed;
     right:10%;
     bottom:20%;
   }
-  #bottom{
+  #b{
+    position:fixed;
+    right:10%;
+    bottom:15%;
+  }
+  #top{
     position:fixed;
     right:10%;
     bottom:10%;
+  }
+  #bottom{
+    position:fixed;
+    right:10%;
+    bottom:5%;
   }
 </style>
 
@@ -64,8 +69,11 @@
       $('#bottom').click(function () {
         $('html, body').animate({scrollTop:$(document).height()-$(window).height()}, 1000);
       });
-      $('#one').click(function () {
-        $('html, body').animate({scrollTop:$("#基本資訊").scrollTop()}, 1000);
+      $('#a').click(function () {
+        $('html, body').animate({scrollTop:$("#A").scrollTop()}, 1000);
+      });
+      $('#b').click(function () {
+        $('html, body').animate({scrollTop:$("#B").scrollTop()}, 1000);
       });
     });
   </script>
@@ -73,7 +81,7 @@
 
 <body>
 <h1 style="text-align:center;font-size:40px">東沙環礁國家公園</h1>
-<h1 id="基本資訊">基本資訊</h1>
+<h1 id="A">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p><b>東沙環礁位在南海北方，環礁外形有如滿月，由造礁珊瑚歷經千萬年建造形成</b>，由於地理、生態特殊，擁有豐富多樣的海洋生物，範圍是以環礁為中心，加上環礁外圍12浬海域為界，<b>海陸域總面積約為353,667.95多公頃。比現有6座國家公園總面積還大</b>，相當臺灣島的十分之一，範圍涵蓋了島嶼、海岸林、潟湖、潮間帶、珊瑚礁、海藻床及大洋等不同但相互依存的生態系統，資源特性有別於臺灣沿岸珊瑚礁生態系，複雜性遠高於陸域生態。</p>
   <img class="blackborder" style="display:block;width:80%;height:auto;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/1028003.jpg">
@@ -82,7 +90,7 @@
 
 </div>
 
-<h1>國家公園標示意涵</h1>
+<h1 id="B">國家公園標示意涵</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:30px;">
 <img style="width: 90px; height: 90px;" src="//i.imgur.com/3Ionk8I.png" align="left"><p>海洋國家公園管理處處徽以海洋國家公園管理處英文名稱之M為設計元素，運用流暢飄逸之書法韻味筆觸表現海浪波動，象徵海洋生態旺盛生命力，及搭配深淺藍色與白色之對比視覺效果，融合於水墨自由暈開之圖形，呈現海洋資源豐沛之意象。</p>
 </div>
@@ -120,6 +128,7 @@
 </div>
 </body>
 <a class="button" id="home" href="#">點此返回主頁</a>
-<a class="button" id="one" href="#">基本資訊</a>
+<a class="button" id="a" href="#">基本資訊</a>
+<a class="button" id="b" href="#">標示意涵</a>
 <a class="button" id="top" href="#">點此返回網頁頂部</a>
 <a class="button" id="bottom" href="#">點此到達網頁底部</a>
