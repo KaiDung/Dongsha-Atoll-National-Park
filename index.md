@@ -22,7 +22,7 @@
   }
   
 </style>
-<div style="text-align:centern;font-size:40px;width:100%"><b>東沙環礁國家公園</b></div>
+<h1 style="text-align:center;font-size:32px>東沙環礁國家公園</h1>
 <h1>基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p><b>東沙環礁位在南海北方，環礁外形有如滿月，由造礁珊瑚歷經千萬年建造形成</b>，由於地理、生態特殊，擁有豐富多樣的海洋生物，範圍是以環礁為中心，加上環礁外圍12浬海域為界，<b>海陸域總面積約為353,667.95多公頃。比現有6座國家公園總面積還大</b>，相當臺灣島的十分之一，範圍涵蓋了島嶼、海岸林、潟湖、潮間帶、珊瑚礁、海藻床及大洋等不同但相互依存的生態系統，資源特性有別於臺灣沿岸珊瑚礁生態系，複雜性遠高於陸域生態。</p>
