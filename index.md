@@ -34,27 +34,27 @@
   }
   #a{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:47%;
   }
   #b{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:40%;
   }
   #c{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:33%;
   }
   #d{
     position:fixed;
-    right:10%;
+    left:10%;
     bottom:26%;
   }
   #top{
     position:fixed;
-    right:10%;
+    :10%;
     bottom:40%;
   }
   #bottom{
