@@ -52,11 +52,6 @@
     right:10%;
     bottom:26%;
   }
-  #e{
-    position:fixed;
-    right:10%;
-    bottom:19%;
-  }
   #top{
     position:fixed;
     right:10%;
