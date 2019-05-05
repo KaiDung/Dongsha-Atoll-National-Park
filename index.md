@@ -46,13 +46,13 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script>
-  $("#top").click(function (e) {
+  $('#top').click(function (e) {
     e.preventDefault();
-    $("html, body").animate({scrollTop: 0},'slow');
+    $('html, body').animate({scrollTop: 0},1000);
   });
-  $("#bottom").click(function (e) {
+  $('#bottom').click(function (e) {
     e.preventDefault();
-    $('html, body').animate({scrollTop:1000}, 'slow');
+    $('html, body').animate({scrollTop:$(document).height()}, 1000);
   });
   </script>
 </head>
