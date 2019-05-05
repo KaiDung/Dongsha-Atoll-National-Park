@@ -54,7 +54,7 @@
   }
   #top{
     position:fixed;
-    :10%;
+    right:10%;
     bottom:40%;
   }
   #bottom{
