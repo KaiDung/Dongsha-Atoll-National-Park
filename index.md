@@ -43,6 +43,7 @@
    }
   
 </style>
+
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script>
@@ -56,6 +57,7 @@
     });
   </script>
 </head>
+
 <body>
 <h1 style="text-align:center;font-size:40px">東沙環礁國家公園</h1>
 <h1>基本資訊</h1>
