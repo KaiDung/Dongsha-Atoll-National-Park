@@ -30,18 +30,7 @@
     display: inline-block;
     font-size: 16px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  }
-  #top{
-    right:10%;
-    position:fixed;
-  }
-  #bottom{
-    right:10%;
-    position:fixed;
-  }
-  #one{
-    right:10%;
-    position:fixed;
+    display:block
   }
   
 </style>
@@ -111,7 +100,7 @@
 <a href="https://www.marine.gov.tw/index.php">海洋國家公園管理處</a>
 </div>
 </body>
-<a class="button" id="home" href="#">點此返回主頁</a><br>
-<a class="button" id="one" href="#">基本資訊</a><br>
-<a class="button" id="top" href="#">點此返回網頁頂部</a><br>
+<a class="button" id="home" href="#">點此返回主頁</a>
+<a class="button" id="one" href="#">基本資訊</a>
+<a class="button" id="top" href="#">點此返回網頁頂部</a>
 <a class="button" id="bottom" href="#">點此到達網頁底部</a>
