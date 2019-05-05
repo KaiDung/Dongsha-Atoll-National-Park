@@ -32,27 +32,42 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     display:block;
   }
-  #home{
-    position:fixed;
-    right:10%;
-    bottom:35%;
-  }
   #a{
     position:fixed;
     right:10%;
-    bottom:27%;
+    bottom:59%;
   }
   #b{
     position:fixed;
     right:10%;
-    bottom:19%;
+    bottom:51%;
+  }
+  #c{
+    position:fixed;
+    right:10%;
+    bottom:43%;
+  }
+  #d{
+    position:fixed;
+    right:10%;
+    bottom:35%;
+  }
+  #e{
+    position:fixed;
+    right:10%;
+    bottom:27%;
   }
   #top{
     position:fixed;
     right:10%;
-    bottom:11%;
+    bottom:19%;
   }
   #bottom{
+    position:fixed;
+    right:10%;
+    bottom:11%;
+  }
+  #home{
     position:fixed;
     right:10%;
     bottom:3%;
@@ -75,6 +90,12 @@
       $('#b').click(function () {
         $('html, body').animate({scrollTop:$("#B").offset().top}, 1000);
       });
+      $('#c').click(function () {
+        $('html, body').animate({scrollTop:$("#C").offset().top}, 1000);
+      });
+      $('#d').click(function () {
+        $('html, body').animate({scrollTop:$("#D").offset().top}, 1000);
+      });
     });
   </script>
 </head>
@@ -95,7 +116,7 @@
 <img style="width: 90px; height: 90px;" src="//i.imgur.com/3Ionk8I.png" align="left"><p>海洋國家公園管理處處徽以海洋國家公園管理處英文名稱之M為設計元素，運用流暢飄逸之書法韻味筆觸表現海浪波動，象徵海洋生態旺盛生命力，及搭配深淺藍色與白色之對比視覺效果，融合於水墨自由暈開之圖形，呈現海洋資源豐沛之意象。</p>
 </div>
 
-<h1>公園特色介紹</h1>
+<h1 id="C">公園特色介紹</h1>
 <h2>一、環礁直徑約25公里</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:40px;">
 <p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09101.jpg" align="left">東沙環礁國家公園境內包括東沙島和環礁。其中的東沙島呈現馬蹄形，常年露出水面，整座島地勢低平，最高處海拔只有7.8公尺，東西長約2,800公尺，寬約865公尺，陸域總面積174公頃，島上覆有貝殼砂，無明顯地形上的遮蔽，有低矮熱帶灌木遍布，島的西側則有兩條沙脊延伸，環抱一個小潟湖，外形很像招潮蟹的大螯，潟湖在退潮時水深不及1公尺。</p><br>
@@ -115,7 +136,7 @@
 </div>
 
 
-<h1>交通資訊</h1>
+<h1 id="D">交通資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;"> 
 <p><b>東沙環礁國家公園目前目前係以環境資源保育與復育、深化海洋學術研究為發展目標，尚未開放民眾登島遊憩活動</b>，歡迎您星期一~星期日09:00至12:00，14:00至17:00蒞臨高雄市楠梓區德民路24號(高雄都會公園內)的海洋國家公園管理處解說服務中心 參觀，服務電話：(07)360-1898。</p>
 </div>
@@ -127,8 +148,10 @@
 <a href="https://www.marine.gov.tw/index.php">海洋國家公園管理處</a>
 </div>
 </body>
-<a class="button" id="home" href="#">點此返回主頁</a>
 <a class="button" id="a" href="#">基本資訊</a>
 <a class="button" id="b" href="#">標示意涵</a>
+<a class="button" id="c" href="#">特色介紹</a>
+<a class="button" id="d" href="#">交通資訊</a>
 <a class="button" id="top" href="#">點此返回網頁頂部</a>
 <a class="button" id="bottom" href="#">點此到達網頁底部</a>
+<a class="button" id="home" href="#">點此返回主頁</a>
