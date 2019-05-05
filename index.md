@@ -52,7 +52,7 @@
   });
   $("#bottom").click(function (e) {
     e.preventDefault();
-    $('html, body').animate({scrollTop:-1000}, 'slow');
+    $('html, body').animate({scrollTop:1000}, 'slow');
   });
   </script>
 </head>
