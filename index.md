@@ -70,10 +70,10 @@
         $('html, body').animate({scrollTop:$(document).height()-$(window).height()}, 1000);
       });
       $('#a').click(function () {
-        $('html, body').animate({scrollTop:$("#A").scrollTop()}, 1000);
+        $('html, body').animate({scrollTop:$("#A").offset().top}, 1000);
       });
       $('#b').click(function () {
-        $('html, body').animate({scrollTop:$("#B").scrollTop()}, 1000);
+        $('html, body').animate({scrollTop:$("#B").offset().top}, 1000);
       });
     });
   </script>
