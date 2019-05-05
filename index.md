@@ -9,6 +9,7 @@
   }
   
   p {
+    font-family:"標楷體";
     font-size: 18px;
   }
   h1{
