@@ -31,10 +31,27 @@
     font-size: 16px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     display:block;
+  }
+  #home{
     position:fixed;
     right:10%;
+    bottom:40%;
   }
-  
+  #one{
+    position:fixed;
+    right:10%;
+    bottom:30%;
+  }
+  #top{
+    position:fixed;
+    right:10%;
+    bottom:20%;
+  }
+  #bottom{
+    position:fixed;
+    right:10%;
+    bottom:10%;
+  }
 </style>
 
 <head>
