@@ -61,15 +61,6 @@
 <p><b>東沙環礁國家公園目前目前係以環境資源保育與復育、深化海洋學術研究為發展目標，尚未開放民眾登島遊憩活動</b>，歡迎您星期一~星期日09:00至12:00，14:00至17:00蒞臨高雄市楠梓區德民路24號(高雄都會公園內)的海洋國家公園管理處解說服務中心 參觀，服務電話：(07)360-1898。</p>
 </div>
 
-<h1>住宿資訊</h1>
-<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;"> 
-<p>無</p>
-</div>
-
-<h1>美食資訊</h1>
-<div style="background-color:#EEFFBB;border:2px black solid;padding:10px;"> 
-<p>無</p>
-</div>
 
 <h1>資料來源</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
