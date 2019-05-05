@@ -30,22 +30,9 @@
     display: inline-block;
     font-size: 16px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    right:10%;
+    position:fixed;
   }
-  #home{
-    position:fixed;
-    right:10%;
-    bottom:30%;
-   }
-  #top{
-    position:fixed;
-    right:10%;
-    bottom:20%;
-   }
-   #bottom{
-    position:fixed;
-    right:10%;
-    bottom:10%;
-   }
   
 </style>
 
@@ -59,13 +46,16 @@
       $('#bottom').click(function () {
         $('html, body').animate({scrollTop:$(document).height()-$(window).height()}, 1000);
       });
+      $('#one').click(function () {
+        $('html, body').animate({scrollTop:$("#基本資訊").scrollTop()}, 1000);
+      });
     });
   </script>
 </head>
 
 <body>
 <h1 style="text-align:center;font-size:40px">東沙環礁國家公園</h1>
-<h1>基本資訊</h1>
+<h1 id="基本資訊">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p><b>東沙環礁位在南海北方，環礁外形有如滿月，由造礁珊瑚歷經千萬年建造形成</b>，由於地理、生態特殊，擁有豐富多樣的海洋生物，範圍是以環礁為中心，加上環礁外圍12浬海域為界，<b>海陸域總面積約為353,667.95多公頃。比現有6座國家公園總面積還大</b>，相當臺灣島的十分之一，範圍涵蓋了島嶼、海岸林、潟湖、潮間帶、珊瑚礁、海藻床及大洋等不同但相互依存的生態系統，資源特性有別於臺灣沿岸珊瑚礁生態系，複雜性遠高於陸域生態。</p>
   <img class="blackborder" style="display:block;width:80%;height:auto;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/1028003.jpg">
@@ -111,6 +101,7 @@
 <a href="https://www.marine.gov.tw/index.php">海洋國家公園管理處</a>
 </div>
 </body>
-<a class="button" id="home" href="#">點此返回主頁</a>
-<a class="button" id="top" href="#">點此返回網頁頂部</a>
+<a class="button" id="home" href="#">點此返回主頁</a><br>
+<a class="button" id="one" href="#">基本資訊</a><br>
+<a class="button" id="top" href="#">點此返回網頁頂部</a><br>
 <a class="button" id="bottom" href="#">點此到達網頁底部</a>
