@@ -34,7 +34,7 @@
   #top{
     position:fixed;
     right:10%;
-    bottom:18%;
+    bottom:20%;
    }
    #bottom{
     position:fixed;
