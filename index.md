@@ -21,7 +21,7 @@
     font-weight:bold;
   }
   #top{
-    position:relative;
+    position:fixed;
     right:10%;
     bottom:10%;
    }
