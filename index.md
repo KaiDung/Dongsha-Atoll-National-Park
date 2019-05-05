@@ -45,17 +45,17 @@
   #c{
     position:fixed;
     right:10%;
-    bottom:55%;
+    bottom:50%;
   }
   #d{
     position:fixed;
     right:10%;
-    bottom:45%;
+    bottom:40%;
   }
   #e{
     position:fixed;
     right:10%;
-    bottom:35%;
+    bottom:30%;
   }
   #top{
     position:fixed;
