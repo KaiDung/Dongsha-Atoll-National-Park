@@ -48,11 +48,11 @@
   <script>
   $("#top").click(function (e) {
     e.preventDefault();
-    $("html, body").animate({scrollTop: 0}, "slow");
+    $("html, body").animate({scrollTop: 0});
   });
   $("#bottom").click(function (e) {
     e.preventDefault();
-    $("html, body").animate({scrollTop: $(document).height()-$(window).height()}, "slow");
+    $("html, body").animate({scrollTop: $(document).height()-$(window).height()});
   });
   </script>
 </head>
