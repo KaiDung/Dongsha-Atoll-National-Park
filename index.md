@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <style>
   
   body {
@@ -153,3 +155,5 @@
 <a class="button" id="top" href="#">網頁頂端</a>
 <a class="button" id="bottom" href="#">網頁底部</a>
 <a class="button" id="home" href="#">返回主頁</a>
+
+</html>
