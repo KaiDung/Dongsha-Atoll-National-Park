@@ -25,7 +25,7 @@
   .button{
     background-color: #a0fdff;
     border: 2px solid black;
-    color: white;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -40,7 +40,7 @@
   #flip{
     background-color: #a0fdff;
     border: 2px solid black;
-    color: white;
+    color: black;
     padding: 15px 50px;
     text-align: center;
     text-decoration: none;
