@@ -39,23 +39,23 @@
 }
   #a{
     position:fixed;
-    left:10%;
-    bottom:47%;
+    right:10%;
+    bottom:68%;
   }
   #b{
     position:fixed;
-    left:10%;
-    bottom:40%;
+    right:10%;
+    bottom:61%;
   }
   #c{
     position:fixed;
-    left:10%;
-    bottom:33%;
+    right:10%;
+    bottom:54%;
   }
   #d{
     position:fixed;
-    left:10%;
-    bottom:26%;
+    right:10%;
+    bottom:47%;
   }
   #top{
     position:fixed;
