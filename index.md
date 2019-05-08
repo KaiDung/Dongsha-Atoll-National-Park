@@ -34,43 +34,26 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     display:block;
   }
-.button:hover {
-  background-color: #A1D0FF;
-}
-  #a{
-    position:fixed;
-    right:10%;
-    bottom:68%;
+  .button:hover {
+    background-color: #A1D0FF;
   }
-  #b{
-    position:fixed;
-    right:10%;
-    bottom:61%;
+  #flip{
+    background-color: #a0fdff;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    display:block;
   }
-  #c{
+  
+  .button-bar {
     position:fixed;
-    right:10%;
-    bottom:54%;
-  }
-  #d{
-    position:fixed;
-    right:10%;
-    bottom:47%;
-  }
-  #top{
-    position:fixed;
-    right:10%;
-    bottom:40%;
-  }
-  #bottom{
-    position:fixed;
-    right:10%;
-    bottom:33%;
-  }
-  #home{
-    position:fixed;
-    right:10%;
-    bottom:26%;
+    top: 20%;
+    right: 5%;
   }
 </style>
 
@@ -148,6 +131,9 @@
 <a href="https://www.marine.gov.tw/index.php">海洋國家公園管理處</a>
 </div>
 </body>
+
+<div class="button-bar">
+<a id ="flip">選單</a>
 <a class="button" id="a" href="#">基本資訊</a>
 <a class="button" id="b" href="#">標示意涵</a>
 <a class="button" id="c" href="#">特色介紹</a>
@@ -155,5 +141,6 @@
 <a class="button" id="top" href="#">網頁頂端</a>
 <a class="button" id="bottom" href="#">網頁底部</a>
 <a class="button" id="home" href="#">返回主頁</a>
+</div>
 
 </html>
