@@ -79,6 +79,9 @@
       $('#d').click(function () {
         $('html, body').animate({scrollTop:$("#D").offset().top}, 1000);
       });
+      $("#flip").click(function(){
+        $(".button").slideToggle("slow");
+      });
     });
   </script>
 </head>
