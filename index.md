@@ -25,7 +25,7 @@
   .button{
     background-color: #a0fdff;
     border: 2px solid black;
-    color: black;
+    color: #0645ad;
     padding: 8px 24px;
     text-align: center;
     text-decoration: none;
