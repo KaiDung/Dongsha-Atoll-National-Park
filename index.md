@@ -217,11 +217,13 @@
 
  <p>東沙國家公園成立於2007年1月，位於南海北端，介於香港、臺灣與呂宋島間，為臺灣海峽的南方大門。環礁距離東北方的高雄有240浬，南距南沙太平島640浬，面積廣達8萬多公頃，主要由造礁珊瑚建造而成，東沙島是環礁裡唯一出露海面的陸域。</p>
   
-<div class="mySlides fade">
+<div class="slideshow-container">
+  
+   <div class="mySlides fade">
         <div class="numbertext">1 / 6</div>
         <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/desktop_800x600_01.jpg">
         <div class="text"></div>
-    </div>
+   </div>
 
    <div class="mySlides fade">
         <div class="numbertext">2 / 6</div>
