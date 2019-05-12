@@ -257,6 +257,7 @@
    <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
+
 <br>
 
 <div style="text-align:center">
@@ -267,6 +268,7 @@
     <span class="dot" onclick="currentSlide(5)"></span>
     <span class="dot" onclick="currentSlide(6)"></span>
 </div>
+
 
 <script>
    var slideIndex = 1;
