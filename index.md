@@ -55,6 +55,129 @@
     top: 5%;
     right: 5%;
   }
+  * {
+        box-sizing: border-box
+    }
+    
+    body {
+        font-family: Verdana, sans-serif;
+        margin: 0
+    }
+    
+    .mySlides {
+        display: none
+    }
+    
+    img {
+        vertical-align: middle;
+    }
+    /* Slideshow container */
+    
+    .slideshow-container {
+        max-width: 1000px;
+        position: relative;
+        margin: auto;
+    }
+    /* Next & previous buttons */
+    
+    .prev,
+    .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        padding: 16px;
+        margin-top: -22px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+    /* Position the "next button" to the right */
+    
+    .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+    }
+    /* On hover, add a black background color with a little bit see-through */
+    
+    .prev:hover,
+    .next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+    /* Caption text */
+    
+    .text {
+        color: #f2f2f2;
+        font-size: 15px;
+        padding: 8px 12px;
+        position: absolute;
+        bottom: 8px;
+        width: 100%;
+        text-align: center;
+    }
+    /* Number text (1/3 etc) */
+    
+    .numbertext {
+        color: #f2f2f2;
+        font-size: 12px;
+        padding: 8px 12px;
+        position: absolute;
+        top: 0;
+    }
+    /* The dots/bullets/indicators */
+    
+    .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+    }
+    
+    .active,.dot:hover {
+        background-color: #717171;
+    }
+    /* Fading animation */
+    
+    .fade {
+        -webkit-animation-name: fade;
+        -webkit-animation-duration: 1.5s;
+        animation-name: fade;
+        animation-duration: 1.5s;
+    }
+    
+    @-webkit-keyframes fade {
+        from {
+            opacity: .4
+        }
+        to {
+            opacity: 1
+        }
+    }
+    
+    @keyframes fade {
+        from {
+            opacity: .4
+        }
+        to {
+            opacity: 1
+        }
+    }
+    /* On smaller screens, decrease text size */
+    
+    @media only screen and (max-width: 300px) {
+        .prev,
+        .next,
+        .text {
+            font-size: 11px
+        }
+    }
 </style>
 
 <head>
@@ -91,9 +214,92 @@
 <h1 id="A">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
 <p><b>東沙環礁位在南海北方，環礁外形有如滿月，由造礁珊瑚歷經千萬年建造形成</b>，由於地理、生態特殊，擁有豐富多樣的海洋生物，範圍是以環礁為中心，加上環礁外圍12浬海域為界，<b>海陸域總面積約為353,667.95多公頃。比現有6座國家公園總面積還大</b>，相當臺灣島的十分之一，範圍涵蓋了島嶼、海岸林、潟湖、潮間帶、珊瑚礁、海藻床及大洋等不同但相互依存的生態系統，資源特性有別於臺灣沿岸珊瑚礁生態系，複雜性遠高於陸域生態。</p>
-  <img class="blackborder" style="display:block;width:80%;height:auto;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/1028003.jpg">
+
  <p>東沙國家公園成立於2007年1月，位於南海北端，介於香港、臺灣與呂宋島間，為臺灣海峽的南方大門。環礁距離東北方的高雄有240浬，南距南沙太平島640浬，面積廣達8萬多公頃，主要由造礁珊瑚建造而成，東沙島是環礁裡唯一出露海面的陸域。</p>
-  <img class="blackborder" style="display:block;width:80%;height:auto;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/1028006.jpg">
+  
+<div class="mySlides fade">
+        <div class="numbertext">1 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/desktop_800x600_01.jpg">
+        <div class="text"></div>
+    </div>
+
+   <div class="mySlides fade">
+        <div class="numbertext">2 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC9465_800x600.jpg" >
+        <div class="text"></div>
+    </div>
+
+   <div class="mySlides fade">
+        <div class="numbertext">3 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/desktop_800x600_03.jpg">
+        <div class="text"></div>
+    </div>
+    
+   <div class="mySlides fade">
+        <div class="numbertext">4 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC4707_1024_768.jpg">
+        <div class="text"></div>
+    </div>
+    
+   <div class="mySlides fade">
+        <div class="numbertext">5 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC6_1024x768.jpg">
+        <div class="text"></div>
+    </div>
+    
+   <div class="mySlides fade">
+        <div class="numbertext">6 / 6</div>
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC7_1024x768.jpg">
+        <div class="text"></div>
+    </div>
+    
+   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+    <span class="dot" onclick="currentSlide(6)"></span>
+</div>
+
+<script>
+   var slideIndex = 1;
+   showSlides(slideIndex);
+
+   function plusSlides(n) {
+        showSlides(slideIndex += n);
+    }
+
+   function currentSlide(n) {
+        showSlides(slideIndex = n);
+    }
+
+   function showSlides(n) {
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("dot");
+        if (n > slides.length) {
+            slideIndex = 1
+        }
+        if (n < 1) {
+            slideIndex = slides.length
+        }
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+    }
+</script>
 
 </div>
 
