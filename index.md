@@ -3,7 +3,11 @@
 <style>
   
   body {
-    background-color: #CCFF99
+    background-image: url(https://i.imgur.com/RUBeCV5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
   }
   
   .blackborder{
