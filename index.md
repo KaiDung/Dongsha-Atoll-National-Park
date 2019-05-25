@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<!-- saved from url=(0054)https://kaidung.github.io/Dongsha-Atoll-National-Park/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Dongsha-Atoll-National-Park</title>
-<meta name="generator" content="Jekyll v3.8.5">
-<meta property="og:title" content="Dongsha-Atoll-National-Park">
-<meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/">
-<meta property="og:url" content="https://kaidung.github.io/Dongsha-Atoll-National-Park/">
-<meta property="og:site_name" content="Dongsha-Atoll-National-Park">
-<script type="application/ld+json">
-{"@type":"WebSite","url":"https://kaidung.github.io/Dongsha-Atoll-National-Park/","name":"Dongsha-Atoll-National-Park","headline":"Dongsha-Atoll-National-Park","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="./Dongsha-Atoll-National-Park_files/style.css"><link type="application/atom+xml" rel="alternate" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/feed.xml" title="Dongsha-Atoll-National-Park"></head>
-<body><header class="site-header">
-
-  <div class="wrapper"><a class="site-title" rel="author" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/">Dongsha-Atoll-National-Park</a></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home">
-
+<title> 東沙環礁國家公園</title>
 <style>
   
   body {
