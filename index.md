@@ -1,8 +1,9 @@
-<title> 東沙環礁國家公園</title>
+
+<html>
 <style>
   
   body {
-    background-image: url(https://i.imgur.com/RUBeCV5.jpg);
+    background-image: url(https://i.imgur.com/THcKxtQ.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -17,14 +18,22 @@
     font-family:"微軟正黑體";
     font-size: 18px;
   }
+  
   h1{
     font-family:"微軟正黑體";
     font-weight:bold;
   }
+  
   h2{
     font-family:"微軟正黑體";
     font-weight:bold;
   }
+  
+  td{
+    font-family:"微軟正黑體";
+    font-size:18px;
+  }
+  
   .button{
     background-color: #a0fdff;
     border: 2px solid black;
@@ -37,9 +46,11 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     display:block;
   }
+  
   .button:hover {
     background-color: #A1D0FF;
   }
+  
   #flip{
     background-color: #a0fdff;
     border: 2px solid black;
@@ -182,7 +193,7 @@
         }
     }
 
-     .tab {
+    .tab {
             overflow: hidden;
             border: 1px solid #ccc;
             background-color: #f1f1f1;
@@ -217,10 +228,12 @@
             border: 1px solid #ccc;
             border-top: none;
         }
+
+  
 </style>
 
-
-<script src="./Dongsha-Atoll-National-Park_files/jquery.min.js.下載"></script>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script>
     $(document).ready(function() {
       $('#top').click(function () {
@@ -241,22 +254,28 @@
       $('#d').click(function () {
         $('html, body').animate({scrollTop:$("#D").offset().top}, 1000);
       });
+      $('#e').click(function () {
+        $('html, body').animate({scrollTop:$("#E").offset().top}, 1000);
+      });
+      $('#f').click(function () {
+        $('html, body').animate({scrollTop:$("#F").offset().top}, 1000);
+      });
       $("#flip").click(function(){
         $(".button").slideToggle("slow");
       });
     });
   </script>
+</head>
 
-
-
-<h1 style="text-align:center;font-size:40px">東沙環礁國家公園</h1>
+<body>
+<h1 style="font-size:40px;text-align:center">東沙環礁國家公園</h1>
 <h1 id="A">基本資訊</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:10px;">
+  
 <p><b>東沙環礁位在南海北方，環礁外形有如滿月，由造礁珊瑚歷經千萬年建造形成</b>，由於地理、生態特殊，擁有豐富多樣的海洋生物，範圍是以環礁為中心，加上環礁外圍12浬海域為界，<b>海陸域總面積約為353,667.95多公頃。比現有6座國家公園總面積還大</b>，相當臺灣島的十分之一，範圍涵蓋了島嶼、海岸林、潟湖、潮間帶、珊瑚礁、海藻床及大洋等不同但相互依存的生態系統，資源特性有別於臺灣沿岸珊瑚礁生態系，複雜性遠高於陸域生態。</p>
 
  <p>東沙國家公園成立於2007年1月，位於南海北端，介於香港、臺灣與呂宋島間，為臺灣海峽的南方大門。環礁距離東北方的高雄有240浬，南距南沙太平島640浬，面積廣達8萬多公頃，主要由造礁珊瑚建造而成，東沙島是環礁裡唯一出露海面的陸域。</p>
-
- <div class="tab">
+<div class="tab">
         <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">珊瑚礁生態系</button>
         <button class="tablinks" onclick="openCity(event, 'Paris')">海草床</button>
         <button class="tablinks" onclick="openCity(event, 'Tokyo')">植物</button>
@@ -308,47 +327,46 @@
         document.getElementById("defaultOpen").click();
     </script>
 
-  
 <div class="slideshow-container">
   
    <div class="mySlides fade" style="display: none;">
         <div class="numbertext">1 / 6</div>
-        <img style="width:100%;height:400px" src="./Dongsha-Atoll-National-Park_files/desktop_800x600_01.jpg">
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/desktop_800x600_01.jpg">
         <div class="text"></div>
    </div>
 
    <div class="mySlides fade" style="display: none;">
         <div class="numbertext">2 / 6</div>
-        <img style="width:100%;height:400px" src="./Dongsha-Atoll-National-Park_files/DSC9465_800x600.jpg">
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC9465_800x600.jpg">
         <div class="text"></div>
     </div>
 
    <div class="mySlides fade" style="display: block;">
         <div class="numbertext">3 / 6</div>
-        <img style="width:100%;height:400px" src="./Dongsha-Atoll-National-Park_files/desktop_800x600_03.jpg">
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/desktop_800x600_03.jpg">
         <div class="text"></div>
     </div>
     
    <div class="mySlides fade" style="display: none;">
         <div class="numbertext">4 / 6</div>
-        <img style="width:100%;height:400px" src="./Dongsha-Atoll-National-Park_files/DSC4707_1024_768.jpg">
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC4707_1024_768.jpg">
         <div class="text"></div>
     </div>
     
    <div class="mySlides fade" style="display: none;">
         <div class="numbertext">5 / 6</div>
-        <img style="width:100%;height:400px" src="./Dongsha-Atoll-National-Park_files/DSC6_1024x768.jpg">
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC6_1024x768.jpg">
         <div class="text"></div>
     </div>
     
    <div class="mySlides fade" style="display: none;">
         <div class="numbertext">6 / 6</div>
-        <img style="width:100%;height:400px" src="./Dongsha-Atoll-National-Park_files/DSC7_1024x768.jpg">
+        <img style="width:100%;height:400px" src="https://www.marine.gov.tw/filesys/image/01_chinese/publish/desktop/DSC7_1024x768.jpg">
         <div class="text"></div>
     </div>
     
-   <a class="prev" onclick="plusSlides(-1)">❮</a>
-   <a class="next" onclick="plusSlides(1)">❯</a>
+   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
 
@@ -357,7 +375,7 @@
 <div style="text-align:center">
     <span class="dot" onclick="currentSlide(1)"></span>
     <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot active" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
     <span class="dot" onclick="currentSlide(4)"></span>
     <span class="dot" onclick="currentSlide(5)"></span>
     <span class="dot" onclick="currentSlide(6)"></span>
@@ -401,21 +419,21 @@
 
 <h1 id="B">國家公園標示意涵</h1>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:30px;">
-<img style="width: 90px; height: 90px;" src="./Dongsha-Atoll-National-Park_files/3Ionk8I.png" align="left"><p>海洋國家公園管理處處徽以海洋國家公園管理處英文名稱之M為設計元素，運用流暢飄逸之書法韻味筆觸表現海浪波動，象徵海洋生態旺盛生命力，及搭配深淺藍色與白色之對比視覺效果，融合於水墨自由暈開之圖形，呈現海洋資源豐沛之意象。</p>
+<img style="width: 90px; height: 90px;" src="https://i.imgur.com/3Ionk8I.png" align="left"><p>海洋國家公園管理處處徽以海洋國家公園管理處英文名稱之M為設計元素，運用流暢飄逸之書法韻味筆觸表現海浪波動，象徵海洋生態旺盛生命力，及搭配深淺藍色與白色之對比視覺效果，融合於水墨自由暈開之圖形，呈現海洋資源豐沛之意象。</p>
 </div>
 
 <h1 id="C">公園特色介紹</h1>
 <h2>一、環礁直徑約25公里</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:40px;">
-<p><img class="blackborder" style="width:200px;height:180px;" src="./Dongsha-Atoll-National-Park_files/d09101.jpg" align="left">東沙環礁國家公園境內包括東沙島和環礁。其中的東沙島呈現馬蹄形，常年露出水面，整座島地勢低平，最高處海拔只有7.8公尺，東西長約2,800公尺，寬約865公尺，陸域總面積174公頃，島上覆有貝殼砂，無明顯地形上的遮蔽，有低矮熱帶灌木遍布，島的西側則有兩條沙脊延伸，環抱一個小潟湖，外形很像招潮蟹的大螯，潟湖在退潮時水深不及1公尺。</p><br>
-<br><p><img class="blackborder" style="width:200px;height:180px;" src="./Dongsha-Atoll-National-Park_files/d09102.jpg" align="right"><b>東沙環礁為一直徑約25公里的圓形環礁，礁台長約46公里，寬約2公里，海水落潮時，周圍礁台可浮現水面</b>。環礁底部坐落在大陸斜坡水深約300~400公尺的東沙台階上，包含有礁台、潟湖、沙洲、淺灘、水道及島嶼等特殊地形。<b>據推測，東沙環礁的形成需要千萬年的時間，屬世界級的地景景觀</b>。</p>
+<p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0401/40101.jpg" align="left">東沙環礁國家公園境內包括東沙島和環礁。其中的東沙島呈現馬蹄形，常年露出水面，整座島地勢低平，最高處海拔只有7.8公尺，東西長約2,800公尺，寬約865公尺，陸域總面積174公頃，島上覆有貝殼砂，無明顯地形上的遮蔽，有低矮熱帶灌木遍布，島的西側則有兩條沙脊延伸，環抱一個小潟湖，外形很像招潮蟹的大螯，潟湖在退潮時水深不及1公尺。</p><br>
+<br><p><img class="blackborder" style="width:200px;height:180px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0401/40124.jpg" align="right"><b>東沙環礁為一直徑約25公里的圓形環礁，礁台長約46公里，寬約2公里，海水落潮時，周圍礁台可浮現水面</b>。環礁底部坐落在大陸斜坡水深約300~400公尺的東沙台階上，包含有礁台、潟湖、沙洲、淺灘、水道及島嶼等特殊地形。<b>據推測，東沙環礁的形成需要千萬年的時間，屬世界級的地景景觀</b>。</p>
 </div>
 
 <h2>二、桌形、分枝形的軸孔珊瑚是主要造礁物</h2>
 <div style="background-color:#EEFFBB;border:2px black solid;padding:40px;">
-<p><img class="blackborder" style="width:180px;height:160px;" src="./Dongsha-Atoll-National-Park_files/d09104.jpg" align="left">環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，<b>以桌形和分枝形的軸孔珊瑚為主要造礁生物</b>，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p><br>
+<p><img class="blackborder" style="width:180px;height:160px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09104.jpg" align="left">環礁的珊瑚群聚屬於典型的熱帶海域珊瑚，<b>以桌形和分枝形的軸孔珊瑚為主要造礁生物</b>，主要分布在礁脊表面及溝槽兩側，目前紀錄的珊瑚種類有250種，其中14種為新紀錄種，包括藍珊瑚及數種八放珊瑚。</p><br>
 
-<br><p><img class="blackborder" style="width:200px;height:200px;" src="./Dongsha-Atoll-National-Park_files/d09106.jpg" align="right">廣大的珊瑚礁海域，有著複雜的空間結構，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物。東沙島孤懸外海，擁有潟湖、海域、和潮間帶等棲息環境，因此成為遷徙性鳥類過境的落腳處，島上也有少數留鳥及冬候鳥，鳥類記錄有130種，主要以鷸科、鷺科及鷗科為主。</p>
+<br><p><img class="blackborder" style="width:200px;height:200px;" src="https://www.marine.gov.tw/filesys/image/01_chinese/newimages/0301/d09106.jpg" align="right">廣大的珊瑚礁海域，有著複雜的空間結構，魚種計有556種，其中有許多在臺灣海域未曾紀錄過的魚種，如黃棕美蝦虎魚、鸚哥鯊、史式海龍、稀棘魚尉等。除了豐富多樣的魚群及珊瑚類外，東沙環礁海域內孕育無數五顏六色的無脊椎動物。東沙島孤懸外海，擁有潟湖、海域、和潮間帶等棲息環境，因此成為遷徙性鳥類過境的落腳處，島上也有少數留鳥及冬候鳥，鳥類記錄有130種，主要以鷸科、鷺科及鷗科為主。</p>
 </div>
 
 <h2>三、海底沉船約29艘可供考古</h2>
@@ -436,46 +454,19 @@
 <a href="https://www.marine.gov.tw/index.php">海洋國家公園管理處</a>
 </div>
 
+</body>
 
 <div class="button-bar">
-<a id="flip">選單</a>
-<a class="button" id="a" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/#">基本資訊</a>
-<a class="button" id="b" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/#">標示意涵</a>
-<a class="button" id="c" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/#">特色介紹</a>
-<a class="button" id="d" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/#">交通資訊</a>
-<a class="button" id="top" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/#">網頁頂端</a>
-<a class="button" id="bottom" href="https://kaidung.github.io/Dongsha-Atoll-National-Park/#">網頁底部</a>
+<a id ="flip">選單</a>
+<a class="button" id="a" href="#">基本資訊</a>
+<a class="button" id="b" href="#">標示意涵</a>
+<a class="button" id="c" href="#">特色介紹</a>
+<a class="button" id="d" href="#">交通資訊</a>
+<a class="button" id="e" href="#">住宿資訊</a>
+<a class="button" id="f" href="#">美食資訊</a>
+<a class="button" id="top" href="#">網頁頂端</a>
+<a class="button" id="bottom" href="#">網頁底部</a>
 <a class="button" id="home" href="https://jim99224.github.io/HomePage/">返回主頁</a>
 </div>
 
-
-</div>
-
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/Dongsha-Atoll-National-Park/"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
-      <h2 class="footer-heading">Dongsha-Atoll-National-Park</h2>
-        <ul class="contact-list">
-          <li class="p-name">Dongsha-Atoll-National-Park</li></ul>
-      </div>
-
-      <div class="footer-col one-half">
-        <p></p>
-      </div>
-
-      <div class="social-links"><ul class="social-media-list"></ul>
-</div>
-    </div>
-
-  </div>
-
-</footer>
-
-
-
-</body></html>
+</html>
